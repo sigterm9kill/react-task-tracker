@@ -1,9 +1,11 @@
 ##
 
 This is a react to-do list SPA
+Assuming you have GIT installed on your system,
+In a terminal: $git clone https://github.com/sigterm9kill/react-task-tracker.git
 
 ## To run:
-cd into top directory
+cd into the top directory
 Open 2 terminal instances.
 // Assuming that you have node installed
 In the 1st Terminal: $npm run build 
